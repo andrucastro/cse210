@@ -16,7 +16,7 @@ public class Fraction{
         _bottom = bottom;
     }
     public int SetTop(int top){
-        top = _top;
+        _top = top;
         return top;
     }
 

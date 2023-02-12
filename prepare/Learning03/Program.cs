@@ -11,5 +11,12 @@ class Program
         Console.WriteLine(fraction1);
         Console.WriteLine(fraction2);
         Console.WriteLine(fraction3);
+
+        Fraction variable = new Fraction();
+        variable.SetTop(3);
+
+        int kattia  = variable.GetTop();
+
+        Console.WriteLine();
     }
 }

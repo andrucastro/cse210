@@ -24,7 +24,7 @@ public class Activity{
 
     public void pauseProgram(int seconds){
         Console.Clear();
-        SandWatch aniamtion = new SandWatch();
+        Animations aniamtion = new Animations();
         aniamtion.RunAnimation();
     }
 

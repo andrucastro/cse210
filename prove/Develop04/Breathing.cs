@@ -9,19 +9,31 @@ public class Breathing : Activity{
     }
 
     public void Breath(int seconds){  
+    // making a jump line before starting the activity    
+    Console.WriteLine();
+    int secondsTracker = 0;
+        while (secondsTracker < seconds){
 
-        int mutiple = 2;
-        while(seconds % mutiple != 0 ){
-        Console.Write(mutiple);
-        mutiple += 1; 
-        }
-        int iterations = seconds/mutiple;
-        
-        for(int i = 0; i < iterations; i++){
+            for(int i = 0; i < 4; i++){
             Console.Write($"Breath in...{i}");
             Thread.Sleep(1000);
-            Console.Write("\b\b\b\b\b\b\b\b\b\b\b\b\b"); 
+            Console.Write("\b\b\b\b\b\b\b\b\b\b\b\b\b");
+            secondsTracker += 1;
         }
+            // Last breath in prompt
+            Console.WriteLine($"Breath in...4");
+
+            for(int i = 0; i < 6; i++){
+            Console.Write($"Breath out...{i}");
+            Thread.Sleep(1000);
+            Console.Write("\b\b\b\b\b\b\b\b\b\b\b\b\b\b");
+            secondsTracker += 1; 
+        }   
+            // Last breath out prompt
+            Console.WriteLine($"Breath out...6");
+            Console.WriteLine();
+        }
+       
        
     }
 

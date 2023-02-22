@@ -2,9 +2,9 @@ using System;
 using System.Threading;
 
 class Program
-{
+{ 
     static void Main(string[] args)
-    {
+    {   
         static void DisplayMenu(){
         Console.WriteLine("Menu Options:");
         Console.WriteLine("1. Start breathing activity");
@@ -15,6 +15,7 @@ class Program
         }
     
     //Start
+    Console.Clear();
     Console.WriteLine("Welcome to the mindfulness program. This program has 3 activities to help you punder and refelt during the day");
     
         int runProgram = 0;

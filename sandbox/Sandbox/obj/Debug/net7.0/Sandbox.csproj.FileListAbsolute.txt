@@ -1,0 +1,15 @@
+/Users/andru/Desktop/BYUI/CSE230/cse210/sandbox/Sandbox/bin/Debug/net7.0/Sandbox
+/Users/andru/Desktop/BYUI/CSE230/cse210/sandbox/Sandbox/bin/Debug/net7.0/Sandbox.deps.json
+/Users/andru/Desktop/BYUI/CSE230/cse210/sandbox/Sandbox/bin/Debug/net7.0/Sandbox.runtimeconfig.json
+/Users/andru/Desktop/BYUI/CSE230/cse210/sandbox/Sandbox/bin/Debug/net7.0/Sandbox.dll
+/Users/andru/Desktop/BYUI/CSE230/cse210/sandbox/Sandbox/bin/Debug/net7.0/Sandbox.pdb
+/Users/andru/Desktop/BYUI/CSE230/cse210/sandbox/Sandbox/obj/Debug/net7.0/Sandbox.csproj.AssemblyReference.cache
+/Users/andru/Desktop/BYUI/CSE230/cse210/sandbox/Sandbox/obj/Debug/net7.0/Sandbox.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andru/Desktop/BYUI/CSE230/cse210/sandbox/Sandbox/obj/Debug/net7.0/Sandbox.AssemblyInfoInputs.cache
+/Users/andru/Desktop/BYUI/CSE230/cse210/sandbox/Sandbox/obj/Debug/net7.0/Sandbox.AssemblyInfo.cs
+/Users/andru/Desktop/BYUI/CSE230/cse210/sandbox/Sandbox/obj/Debug/net7.0/Sandbox.csproj.CoreCompileInputs.cache
+/Users/andru/Desktop/BYUI/CSE230/cse210/sandbox/Sandbox/obj/Debug/net7.0/Sandbox.dll
+/Users/andru/Desktop/BYUI/CSE230/cse210/sandbox/Sandbox/obj/Debug/net7.0/refint/Sandbox.dll
+/Users/andru/Desktop/BYUI/CSE230/cse210/sandbox/Sandbox/obj/Debug/net7.0/Sandbox.pdb
+/Users/andru/Desktop/BYUI/CSE230/cse210/sandbox/Sandbox/obj/Debug/net7.0/Sandbox.genruntimeconfig.cache
+/Users/andru/Desktop/BYUI/CSE230/cse210/sandbox/Sandbox/obj/Debug/net7.0/ref/Sandbox.dll

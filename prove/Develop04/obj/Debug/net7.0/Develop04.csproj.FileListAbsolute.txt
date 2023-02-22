@@ -1,0 +1,15 @@
+/Users/andru/Desktop/BYUI/CSE230/cse210/prove/Develop04/bin/Debug/net7.0/Develop04
+/Users/andru/Desktop/BYUI/CSE230/cse210/prove/Develop04/bin/Debug/net7.0/Develop04.deps.json
+/Users/andru/Desktop/BYUI/CSE230/cse210/prove/Develop04/bin/Debug/net7.0/Develop04.runtimeconfig.json
+/Users/andru/Desktop/BYUI/CSE230/cse210/prove/Develop04/bin/Debug/net7.0/Develop04.dll
+/Users/andru/Desktop/BYUI/CSE230/cse210/prove/Develop04/bin/Debug/net7.0/Develop04.pdb
+/Users/andru/Desktop/BYUI/CSE230/cse210/prove/Develop04/obj/Debug/net7.0/Develop04.csproj.AssemblyReference.cache
+/Users/andru/Desktop/BYUI/CSE230/cse210/prove/Develop04/obj/Debug/net7.0/Develop04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andru/Desktop/BYUI/CSE230/cse210/prove/Develop04/obj/Debug/net7.0/Develop04.AssemblyInfoInputs.cache
+/Users/andru/Desktop/BYUI/CSE230/cse210/prove/Develop04/obj/Debug/net7.0/Develop04.AssemblyInfo.cs
+/Users/andru/Desktop/BYUI/CSE230/cse210/prove/Develop04/obj/Debug/net7.0/Develop04.csproj.CoreCompileInputs.cache
+/Users/andru/Desktop/BYUI/CSE230/cse210/prove/Develop04/obj/Debug/net7.0/Develop04.dll
+/Users/andru/Desktop/BYUI/CSE230/cse210/prove/Develop04/obj/Debug/net7.0/refint/Develop04.dll
+/Users/andru/Desktop/BYUI/CSE230/cse210/prove/Develop04/obj/Debug/net7.0/Develop04.pdb
+/Users/andru/Desktop/BYUI/CSE230/cse210/prove/Develop04/obj/Debug/net7.0/Develop04.genruntimeconfig.cache
+/Users/andru/Desktop/BYUI/CSE230/cse210/prove/Develop04/obj/Debug/net7.0/ref/Develop04.dll

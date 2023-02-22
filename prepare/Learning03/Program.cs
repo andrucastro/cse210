@@ -4,6 +4,19 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello Learning03 World!");
+        Fraction fraction1 = new Fraction();
+        Fraction fraction2 = new Fraction(5);
+        Fraction fraction3 = new Fraction(5,4);
+        
+        Console.WriteLine(fraction1);
+        Console.WriteLine(fraction2);
+        Console.WriteLine(fraction3);
+
+        Fraction variable = new Fraction();
+        variable.SetTop(3);
+
+        int kattia  = variable.GetTop();
+
+        Console.WriteLine();
     }
 }

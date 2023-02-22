@@ -1,0 +1,15 @@
+/Users/andru/Desktop/BYUI/CSE230/cse210/csharp-prep/Prep2/bin/Debug/net7.0/Prep2
+/Users/andru/Desktop/BYUI/CSE230/cse210/csharp-prep/Prep2/bin/Debug/net7.0/Prep2.deps.json
+/Users/andru/Desktop/BYUI/CSE230/cse210/csharp-prep/Prep2/bin/Debug/net7.0/Prep2.runtimeconfig.json
+/Users/andru/Desktop/BYUI/CSE230/cse210/csharp-prep/Prep2/bin/Debug/net7.0/Prep2.dll
+/Users/andru/Desktop/BYUI/CSE230/cse210/csharp-prep/Prep2/bin/Debug/net7.0/Prep2.pdb
+/Users/andru/Desktop/BYUI/CSE230/cse210/csharp-prep/Prep2/obj/Debug/net7.0/Prep2.csproj.AssemblyReference.cache
+/Users/andru/Desktop/BYUI/CSE230/cse210/csharp-prep/Prep2/obj/Debug/net7.0/Prep2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andru/Desktop/BYUI/CSE230/cse210/csharp-prep/Prep2/obj/Debug/net7.0/Prep2.AssemblyInfoInputs.cache
+/Users/andru/Desktop/BYUI/CSE230/cse210/csharp-prep/Prep2/obj/Debug/net7.0/Prep2.AssemblyInfo.cs
+/Users/andru/Desktop/BYUI/CSE230/cse210/csharp-prep/Prep2/obj/Debug/net7.0/Prep2.csproj.CoreCompileInputs.cache
+/Users/andru/Desktop/BYUI/CSE230/cse210/csharp-prep/Prep2/obj/Debug/net7.0/Prep2.dll
+/Users/andru/Desktop/BYUI/CSE230/cse210/csharp-prep/Prep2/obj/Debug/net7.0/refint/Prep2.dll
+/Users/andru/Desktop/BYUI/CSE230/cse210/csharp-prep/Prep2/obj/Debug/net7.0/Prep2.pdb
+/Users/andru/Desktop/BYUI/CSE230/cse210/csharp-prep/Prep2/obj/Debug/net7.0/Prep2.genruntimeconfig.cache
+/Users/andru/Desktop/BYUI/CSE230/cse210/csharp-prep/Prep2/obj/Debug/net7.0/ref/Prep2.dll

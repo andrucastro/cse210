@@ -1,0 +1,15 @@
+/Users/andru/Desktop/BYUI/CSE230/cse210/csharp-prep/Prep5/bin/Debug/net7.0/Prep5
+/Users/andru/Desktop/BYUI/CSE230/cse210/csharp-prep/Prep5/bin/Debug/net7.0/Prep5.deps.json
+/Users/andru/Desktop/BYUI/CSE230/cse210/csharp-prep/Prep5/bin/Debug/net7.0/Prep5.runtimeconfig.json
+/Users/andru/Desktop/BYUI/CSE230/cse210/csharp-prep/Prep5/bin/Debug/net7.0/Prep5.dll
+/Users/andru/Desktop/BYUI/CSE230/cse210/csharp-prep/Prep5/bin/Debug/net7.0/Prep5.pdb
+/Users/andru/Desktop/BYUI/CSE230/cse210/csharp-prep/Prep5/obj/Debug/net7.0/Prep5.csproj.AssemblyReference.cache
+/Users/andru/Desktop/BYUI/CSE230/cse210/csharp-prep/Prep5/obj/Debug/net7.0/Prep5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andru/Desktop/BYUI/CSE230/cse210/csharp-prep/Prep5/obj/Debug/net7.0/Prep5.AssemblyInfoInputs.cache
+/Users/andru/Desktop/BYUI/CSE230/cse210/csharp-prep/Prep5/obj/Debug/net7.0/Prep5.AssemblyInfo.cs
+/Users/andru/Desktop/BYUI/CSE230/cse210/csharp-prep/Prep5/obj/Debug/net7.0/Prep5.csproj.CoreCompileInputs.cache
+/Users/andru/Desktop/BYUI/CSE230/cse210/csharp-prep/Prep5/obj/Debug/net7.0/Prep5.dll
+/Users/andru/Desktop/BYUI/CSE230/cse210/csharp-prep/Prep5/obj/Debug/net7.0/refint/Prep5.dll
+/Users/andru/Desktop/BYUI/CSE230/cse210/csharp-prep/Prep5/obj/Debug/net7.0/Prep5.pdb
+/Users/andru/Desktop/BYUI/CSE230/cse210/csharp-prep/Prep5/obj/Debug/net7.0/Prep5.genruntimeconfig.cache
+/Users/andru/Desktop/BYUI/CSE230/cse210/csharp-prep/Prep5/obj/Debug/net7.0/ref/Prep5.dll

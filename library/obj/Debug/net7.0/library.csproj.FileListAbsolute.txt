@@ -1,0 +1,15 @@
+/Users/andru/Desktop/BYUI/CSE230/cse210/library/bin/Debug/net7.0/library
+/Users/andru/Desktop/BYUI/CSE230/cse210/library/bin/Debug/net7.0/library.deps.json
+/Users/andru/Desktop/BYUI/CSE230/cse210/library/bin/Debug/net7.0/library.runtimeconfig.json
+/Users/andru/Desktop/BYUI/CSE230/cse210/library/bin/Debug/net7.0/library.dll
+/Users/andru/Desktop/BYUI/CSE230/cse210/library/bin/Debug/net7.0/library.pdb
+/Users/andru/Desktop/BYUI/CSE230/cse210/library/obj/Debug/net7.0/library.csproj.AssemblyReference.cache
+/Users/andru/Desktop/BYUI/CSE230/cse210/library/obj/Debug/net7.0/library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andru/Desktop/BYUI/CSE230/cse210/library/obj/Debug/net7.0/library.AssemblyInfoInputs.cache
+/Users/andru/Desktop/BYUI/CSE230/cse210/library/obj/Debug/net7.0/library.AssemblyInfo.cs
+/Users/andru/Desktop/BYUI/CSE230/cse210/library/obj/Debug/net7.0/library.csproj.CoreCompileInputs.cache
+/Users/andru/Desktop/BYUI/CSE230/cse210/library/obj/Debug/net7.0/library.dll
+/Users/andru/Desktop/BYUI/CSE230/cse210/library/obj/Debug/net7.0/refint/library.dll
+/Users/andru/Desktop/BYUI/CSE230/cse210/library/obj/Debug/net7.0/library.pdb
+/Users/andru/Desktop/BYUI/CSE230/cse210/library/obj/Debug/net7.0/library.genruntimeconfig.cache
+/Users/andru/Desktop/BYUI/CSE230/cse210/library/obj/Debug/net7.0/ref/library.dll

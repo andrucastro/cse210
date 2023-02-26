@@ -20,7 +20,7 @@ public class Breathing : Activity{
             Console.Write("\b\b\b\b\b\b\b\b\b\b\b\b\b");
             secondsTracker += 1;
         }
-            // Last breath in prompt
+            // Last breath in prompt 
             Console.WriteLine($"Breath in...4");
 
             for(int i = 0; i < 6; i++){

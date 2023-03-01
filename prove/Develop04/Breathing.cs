@@ -34,6 +34,11 @@ public class Breathing : Activity{
             Console.WriteLine();
         }
        
+       Console.WriteLine("\n");
+       // Display Teh spinner at the end of the program
+       DisplayByeMessage();
+       Animations.DisplaySpiner(10);
+       Console.Clear(); 
        
     }
 

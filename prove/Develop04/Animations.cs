@@ -1,6 +1,6 @@
-public class Animations{
+public static class Animations{
 
-public void frame1(){
+public static void frame1(){
     Console.WriteLine("Get Redy");
     Console.WriteLine(".......");
     Console.WriteLine(".*****.");
@@ -12,7 +12,7 @@ public void frame1(){
    
 }
 
-public void frame2(){
+public static void frame2(){
     Console.WriteLine("Get Redy");
     Console.WriteLine(".......");
     Console.WriteLine(".     .");
@@ -24,7 +24,7 @@ public void frame2(){
    
 }
 
-public void frame3(){
+public static void frame3(){
     Console.WriteLine("Get Redy");
     Console.WriteLine(".......");
     Console.WriteLine(".     .");
@@ -36,7 +36,7 @@ public void frame3(){
    
 }
 
-public void frame4(){
+public static void frame4(){
     Console.WriteLine(" ");
     Console.WriteLine(".......");
     Console.WriteLine(".     .");
@@ -48,7 +48,7 @@ public void frame4(){
    
 }
 
-public void RunAnimation(){
+public static void RunAnimation(){
     for(int i = 0; i <=2; i++){
             frame1();
             Thread.Sleep(1000);
@@ -68,4 +68,30 @@ public void RunAnimation(){
        }
 
   } 
+
+  public static void DisplaySpiner(int seconds){
+    int i = 0;
+
+    while( i <= seconds ){
+            Console.Write("|");
+            Thread.Sleep(500);
+            i += 1;
+            Console.Write("\b");
+            Console.Write("/");
+            Thread.Sleep(500);
+            i += 1;
+            Console.Write("\b");
+            Console.Write("—");
+            Thread.Sleep(500);
+            i += 1;
+            Console.Write("\b");
+            Console.Write("\\");
+            Thread.Sleep(500);
+            i += 1;
+            Console.Write("\b");
+
+    }
+   Console.Write(" ");
+   Console.Write("\b");
+  }
 }

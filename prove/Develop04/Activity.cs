@@ -11,7 +11,7 @@ public class Activity{
 
 
     public void WelcomMesage(){
-        Console.WriteLine($"Wlcome to the {_activityName} activity\n");
+        Console.WriteLine($"Welcome to the {_activityName} activity\n");
         
     }
 
@@ -24,8 +24,13 @@ public class Activity{
 
     public void pauseProgram(int seconds){
         Console.Clear();
-        Animations aniamtion = new Animations();
-        aniamtion.RunAnimation();
+        Animations.RunAnimation();
+    }
+
+    public void DisplayByeMessage(){
+        Console.WriteLine("Well Done!!");
+        Animations.DisplaySpiner(10);
+        Console.WriteLine($"You have Completed another {_activityTime} of the {_activityName} Activity");
     }
 
 }

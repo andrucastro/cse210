@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/Users/andru/.nuget/packages/": {}
+    "C:\\Users\\gueva\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/andru/Desktop/BYUI/CSE230/cse210/prove/Develop03/Develop03.csproj",
+      "projectUniqueName": "C:\\Users\\gueva\\Desktop\\cse210\\prove\\Develop03\\Develop03.csproj",
       "projectName": "Develop03",
-      "projectPath": "/Users/andru/Desktop/BYUI/CSE230/cse210/prove/Develop03/Develop03.csproj",
-      "packagesPath": "/Users/andru/.nuget/packages/",
-      "outputPath": "/Users/andru/Desktop/BYUI/CSE230/cse210/prove/Develop03/obj/",
+      "projectPath": "C:\\Users\\gueva\\Desktop\\cse210\\prove\\Develop03\\Develop03.csproj",
+      "packagesPath": "C:\\Users\\gueva\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gueva\\Desktop\\cse210\\prove\\Develop03\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/andru/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\gueva\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

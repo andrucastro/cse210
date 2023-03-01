@@ -6,6 +6,7 @@ class Program
     static void Main(string[] args)
     {   
         static void DisplayMenu(){
+        Console.Clear();    
         Console.WriteLine("Menu Options:");
         Console.WriteLine("1. Start breathing activity");
         Console.WriteLine("2. Start reflecting activity");
@@ -35,6 +36,7 @@ class Program
                 Breathing breathing = new Breathing(0,"Breathing");
                 breathing.WelcomMesage();
                 breathing.displayDescription();
+                // store the duration in seconds of the activty 
                 int getDuration = breathing.getDuration();
                 breathing.pauseProgram(3);
                 breathing.Breath(getDuration);
@@ -43,12 +45,20 @@ class Program
 
             //Reflecting activity
             case 2:
-                Console.WriteLine("activity 2");
+                Console.Clear();
+                Reflecting reflecting = new Reflecting(0,"Refelcting");
+                reflecting.WelcomMesage();
+                reflecting.displayDescription();
+                // store the duration in seconds of the activty 
+                getDuration = reflecting.getDuration();
+                //reflecting.pauseProgram(3);
+                reflecting.reflect(getDuration);
+                
             break;
             
             //Reflecting listening
             case 3:
-                Console.WriteLine("activity 3");
+                Console.Clear();
             break;
 
             //Stop the  program

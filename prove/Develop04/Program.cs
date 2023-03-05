@@ -1,6 +1,7 @@
 using System;
 using System.Threading;
 
+
 class Program
 { 
     static void Main(string[] args)
@@ -51,14 +52,20 @@ class Program
                 reflecting.displayDescription();
                 // store the duration in seconds of the activty 
                 getDuration = reflecting.getDuration();
-                //reflecting.pauseProgram(3);
+                reflecting.pauseProgram(3);
                 reflecting.reflect(getDuration);
-                
             break;
             
             //Reflecting listening
             case 3:
                 Console.Clear();
+                Listening listening = new Listening(0,"Listening");
+                listening.WelcomMesage();
+                listening.displayDescription();
+                // store the duration in seconds of the activty 
+                getDuration = listening.getDuration();
+                listening.pauseProgram(3);
+                listening.listening(getDuration);
             break;
 
             //Stop the  program

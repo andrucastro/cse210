@@ -1,0 +1,15 @@
+C:\Users\gueva\Desktop\cse210\poli\obj\Debug\net7.0\poli.csproj.AssemblyReference.cache
+C:\Users\gueva\Desktop\cse210\poli\obj\Debug\net7.0\poli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gueva\Desktop\cse210\poli\obj\Debug\net7.0\poli.AssemblyInfoInputs.cache
+C:\Users\gueva\Desktop\cse210\poli\obj\Debug\net7.0\poli.AssemblyInfo.cs
+C:\Users\gueva\Desktop\cse210\poli\obj\Debug\net7.0\poli.csproj.CoreCompileInputs.cache
+C:\Users\gueva\Desktop\cse210\poli\bin\Debug\net7.0\poli.exe
+C:\Users\gueva\Desktop\cse210\poli\bin\Debug\net7.0\poli.deps.json
+C:\Users\gueva\Desktop\cse210\poli\bin\Debug\net7.0\poli.runtimeconfig.json
+C:\Users\gueva\Desktop\cse210\poli\bin\Debug\net7.0\poli.dll
+C:\Users\gueva\Desktop\cse210\poli\bin\Debug\net7.0\poli.pdb
+C:\Users\gueva\Desktop\cse210\poli\obj\Debug\net7.0\poli.dll
+C:\Users\gueva\Desktop\cse210\poli\obj\Debug\net7.0\refint\poli.dll
+C:\Users\gueva\Desktop\cse210\poli\obj\Debug\net7.0\poli.pdb
+C:\Users\gueva\Desktop\cse210\poli\obj\Debug\net7.0\poli.genruntimeconfig.cache
+C:\Users\gueva\Desktop\cse210\poli\obj\Debug\net7.0\ref\poli.dll

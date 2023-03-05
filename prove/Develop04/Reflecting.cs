@@ -32,7 +32,7 @@ public class Reflecting : Activity{
         Console.ReadLine();
         Console.WriteLine("Now Ponder on each of the following questions as they related to this experience");
         
-        for(int i = 0; i < 4; i++){
+        for(int i = 0; i <= 4; i++){
             Console.Write($"You may begin in: {i}");
             Thread.Sleep(1000);
             Console.Write("\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b");

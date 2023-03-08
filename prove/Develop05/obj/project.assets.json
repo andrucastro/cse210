@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/Users/andru/.nuget/packages/": {}
+    "/Users/andresfelipecastroguevara/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/andru/Desktop/BYUI/CSE230/cse210/prove/Develop05/Develop05.csproj",
+      "projectUniqueName": "/Users/andresfelipecastroguevara/Desktop/BYUI/cse210/prove/Develop05/Develop05.csproj",
       "projectName": "Develop05",
-      "projectPath": "/Users/andru/Desktop/BYUI/CSE230/cse210/prove/Develop05/Develop05.csproj",
-      "packagesPath": "/Users/andru/.nuget/packages/",
-      "outputPath": "/Users/andru/Desktop/BYUI/CSE230/cse210/prove/Develop05/obj/",
+      "projectPath": "/Users/andresfelipecastroguevara/Desktop/BYUI/cse210/prove/Develop05/Develop05.csproj",
+      "packagesPath": "/Users/andresfelipecastroguevara/.nuget/packages/",
+      "outputPath": "/Users/andresfelipecastroguevara/Desktop/BYUI/cse210/prove/Develop05/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/andru/.nuget/NuGet/NuGet.Config"
+        "/Users/andresfelipecastroguevara/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
       }
     }
   }

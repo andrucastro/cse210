@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gueva\\Desktop\\cse210\\prove\\Develop04\\Develop04.csproj": {}
+    "/Users/andresfelipecastroguevara/Desktop/BYUI/cse210/prove/Develop04/Develop04.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gueva\\Desktop\\cse210\\prove\\Develop04\\Develop04.csproj": {
+    "/Users/andresfelipecastroguevara/Desktop/BYUI/cse210/prove/Develop04/Develop04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gueva\\Desktop\\cse210\\prove\\Develop04\\Develop04.csproj",
+        "projectUniqueName": "/Users/andresfelipecastroguevara/Desktop/BYUI/cse210/prove/Develop04/Develop04.csproj",
         "projectName": "Develop04",
-        "projectPath": "C:\\Users\\gueva\\Desktop\\cse210\\prove\\Develop04\\Develop04.csproj",
-        "packagesPath": "C:\\Users\\gueva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gueva\\Desktop\\cse210\\prove\\Develop04\\obj\\",
+        "projectPath": "/Users/andresfelipecastroguevara/Desktop/BYUI/cse210/prove/Develop04/Develop04.csproj",
+        "packagesPath": "/Users/andresfelipecastroguevara/.nuget/packages/",
+        "outputPath": "/Users/andresfelipecastroguevara/Desktop/BYUI/cse210/prove/Develop04/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gueva\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/andresfelipecastroguevara/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
         }
       }
     }
